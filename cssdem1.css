@@ -1,0 +1,39 @@
+body,
+html{
+    background-color: black;
+
+}
+.buffer{
+    height: 10rem;
+} 
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: #ee4b08;
+}
+h3{
+    text-align:center;
+    color: rgb(67, 92, 23);
+}
+hr{
+    border-color: rgb(237, 27, 27);
+    border-width: 2px;
+    max-width: 100px;
+    margin: auto;
+}
+
+
+.btn{
+    font-weight: 100px;
+    border-radius: 10ch;
+    display: flex;
+    margin: auto;
+}
+.btn-success:hover{
+    background-color: #ee4b08;
+    border-color: #ee4b08;
+    border-width: 4px;
+}
+.btn-lg{
+    padding: 1rem 2rem;
+}
